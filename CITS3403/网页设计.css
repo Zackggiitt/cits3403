@@ -1,0 +1,15 @@
+#SignupForm {
+    background-color: rgb(209, 195, 231);
+}
+
+#existingGroups {
+    background-color: aqua;
+}
+
+.studentName:hover {
+    font-weight: 800;
+}
+
+.ejecbutton {
+    background-color: rgb(70, 234, 147);
+}
